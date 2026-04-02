@@ -83,7 +83,7 @@ Best Train Dice:        0.9448
 ## 🧠 Authors
 
 - **Ahmed Samy**  
-  [GitHub]() | [Kaggle]() | [LinkedIn]()
+  [GitHub](https://github.com/ASamy10) | [Kaggle](https://www.kaggle.com/ahmedsamy10) | [LinkedIn](https://www.linkedin.com/in/ahmedsamy-mo/)
 - **Omar Eldash**  
   [GitHub](https://github.com/Omareldash) | [Kaggle](https://www.kaggle.com/omareldash75) | [LinkedIn](https://www.linkedin.com/in/omareldash7512)
 ---
