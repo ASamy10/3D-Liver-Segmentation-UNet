@@ -76,4 +76,14 @@ Best Train Dice:        0.9448
 - Add multi-organ segmentation  
 - Improve performance using attention mechanisms  
 - Experiment with different loss functions (e.g., Dice + BCE)  
-- Deploy model as a medical imaging tool  
+- Deploy model as a medical imaging tool
+
+---
+
+## 🧠 Authors
+
+- **Ahmed Samy**  
+  [GitHub]() | [Kaggle]() | [LinkedIn]()
+- **Omar Eldash**  
+  [GitHub](https://github.com/Omareldash) | [Kaggle](https://www.kaggle.com/omareldash75) | [LinkedIn](https://www.linkedin.com/in/omareldash7512)
+---
